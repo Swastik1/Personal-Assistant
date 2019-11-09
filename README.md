@@ -4,7 +4,7 @@ This is a progressive web app made with Sass.
 Here is the Sass code which i converted to main.css using Live Sass Compiler :
 
 ------------------ CODE ------------------------
-
+```
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 $colors: (
   primary: #482a2a,
@@ -152,4 +152,4 @@ main {
     }
   }
 }
-
+```
